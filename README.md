@@ -12,7 +12,7 @@ First he clones the repo:
 
 ```bash
 cd /home/bob/code
-git clone ...
+git clone https://github.com/ocra-recipes/eigen_3_0_5
 ```
 Let's now call `/home/bob/code/eigen_3_0_5/`, `$EIGEN_ROOT`.
 
